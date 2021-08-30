@@ -1,8 +1,7 @@
 {
   "name": "cpindexfile",
-  "version": "1.0.2s",
+  "version": "1.0.3",
   "description": "将一个文件复制为多个",
-  "main": "index.js",
   "bin": {
     "cpIndex": "index"
   },
