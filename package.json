@@ -1,0 +1,19 @@
+{
+  "name": "cpindexfile",
+  "version": "1.0.0",
+  "description": "将一个文件复制为多个",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianshou/cpIndexFile.git"
+  },
+  "author": "allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianshou/cpIndexFile/issues"
+  },
+  "homepage": "https://github.com/qianshou/cpIndexFile#readme"
+}
