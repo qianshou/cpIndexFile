@@ -1,9 +1,10 @@
 {
   "name": "cpindexfile",
-  "version": "1.0.1",
+  "version": "1.0.2s",
   "description": "将一个文件复制为多个",
+  "main": "index.js",
   "bin": {
-    "cpIndex": "./bin/index.js"
+    "cpIndex": "index"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
