@@ -1,9 +1,10 @@
 {
   "name": "cpindexfile",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "将一个文件复制为多个",
   "bin": {
-    "cpIndex": "index"
+    "cpIndex" : "cpIndex",
+    "rmIndex" : "rmIndex"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
